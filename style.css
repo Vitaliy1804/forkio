@@ -1,0 +1,142 @@
+
+
+
+
+
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+.content-text-container {
+	padding-left: 10px;
+	padding-right: 10px;
+	
+}
+.section-2-headline{
+	
+    font-size: 54px;
+
+  color: #635c73;
+  font-family: "Montserrat";
+  text-transform: uppercase;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 70px;
+	
+}
+.section-2-text{
+    margin: 0 auto;
+
+height: 90px;
+font-size: 21px;
+line-height: 32px;
+color: #323232;
+font-family: "Lato";
+font-weight: 400;
+text-align: center;
+padding-top: 40px;
+}
+
+
+.git-buttons-wrapper{
+	max-width: 365px;
+    display: flex;
+    justify-content: space-between;
+   
+    padding-top: 80px;
+    margin: 0 auto;
+}
+    .watch-icon-div{
+     width: 24px;
+     
+    }
+
+    .star-icon-div{
+      margin-right: 10px;
+
+    }
+    .fork-icon-div{
+	margin-right: 10px;
+}
+
+@media only screen and (max-width: 481px) and (min-width: 320px) {
+
+   .container{
+   	min-width: 320px;
+   }
+    .content-text-container{
+    	padding-right: 20px;
+    	padding-left: 20px;
+    }
+    .section-2-headline{
+    font-size: 19.07445pt;
+  }
+}
+
+@media only screen and (max-width: 992px) and (min-width: 481px) {
+	.section-2-headline{
+    font-size: 30.81257pt;
+  }
+}/*.wrapper-background{
+	background-color:#f4f4f4 ;
+}
+.content-container__headline-features__headline{
+	position: relative;
+	left: 300px;
+	bottom: 50px;
+	
+	color:#8d81ac;
+}
+.content-container__features-info{
+	padding-top: 100px;
+	padding-left: 90px;
+	display:grid;
+	grid-template-columns:600px;
+	grid-template-rows:  100px;
+
+display: flex;
+flex-direction: column;
+width: 300px;
+text-align: right;
+
+}
+
+
+
+.content-container__features-info__img{
+position: absolute;
+}
+.content-container__features-info__wrapper-text-headline{
+	position: relative;
+	text-align: left;
+	left: 115px;
+	bottom:30px;
+}
+.content-container{
+	
+	padding-top: 100px;
+	padding-left: 90px;
+	overflow: hidden;
+}
+.wrapper-text-headline{
+	position: relative;
+    left: 180px;
+}
+.editor-img-div{
+	position: absolute;
+	top:570px;
+	left:580px;
+	z-index: 1;
+	width: 45%;
+    display: block;
+    position: absolute;
+    top: 91px;
+    right: 0;
+
+
+}
+.wrapper-text-headline__headline{
+	font-family: 'Lato';
+	color:#323232;
+}*/
